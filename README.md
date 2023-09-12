@@ -1,4 +1,4 @@
-# Getir Clone App with React
+# Getir Clone App with React (Not completed)
 
 ## Technologies I used
 - React
